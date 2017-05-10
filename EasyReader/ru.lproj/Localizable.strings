@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  EasyReader
+
+  Created by Oleg Gorelov on 10.05.17.
+  Copyright © 2017 Oleg Gorelov. All rights reserved.
+*/
+
+"rrsListLocKey" = "RRS Поток";
+"listNotLoadedLocKey" = "RSS Поток не загружен";
+"clearLocKey" = "Очистить";
+"settingsLocKey" = "Настройки";
+"enterRSSstreamLocKey" = "Введите RSS поток";
+"attentionLocKey" = "Внимание";
+"clearListLocKey" = "вы уверены, что хотите очистить список?";
+"yesLocKey" = "Да";
+"noLocKey" = "Нет";
+"notRSSFlowLocKey" = "Это не RSS поток";
+"okLocKey" = "Ок";
